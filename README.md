@@ -5,4 +5,4 @@
 
 
 
-### 참고 깃허브 : https://github.com/Study-2-Effective-Java/Effective-Java/issues/122
+### Study 방식 참고 깃허브 : https://github.com/Study-2-Effective-Java/Effective-Java/issues/122
